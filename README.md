@@ -60,7 +60,11 @@ Currently, I’m part of the research team at **ATB Potsdam**, developing advanc
 - **SunBot (ATB Potsdam):** Development of ROS-based teleoperation and sensor fusion modules for autonomous field robotics.  
 - **5G FoodChain Project:** Test engineer for remote robot control and data transfer via 5G infrastructure.  
 - **Bachelor’s Thesis:** Development and evaluation of a ROS-based laser scanning and distributed collision avoidance system for a four-wheel steering mobile robot.  
-- **Master’s Thesis (In Progress):** 3D Reconstruction-Driven Motion Planning of a Serial Robot Manipulator for Pick-and-Place Tasks in Potato Cultivation.  
+- **Master’s Thesis (In Progress):** 3D Reconstruction-Driven Motion Planning of a Serial Robot Manipulator for Pick-and-Place Tasks in Potato Cultivation.
+- **Agromechatronic Systems and Field Robots (TU Berlin Project):** Part of the “Agromechatronic Systems and Field Robotics” course at TU Berlin. Focused on the development of robotic systems for agricultural automation, including control algorithms, sensor integration, and field testing.
+- **Automated Driving (TU Berlin Project, 2022):** Developed simulation models for autonomous vehicle behavior using ROS and Gazebo. Worked on sensor fusion for lane detection, obstacle avoidance, and path tracking.
+- **OpenCV University – Computer Vision and Deep Learning Program:** *(Ongoing)* Advanced training in computer vision algorithms and neural network design. Focus on practical implementation of object detection, segmentation, and feature extraction using OpenCV, TensorFlow, and PyTorch.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyhabz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
