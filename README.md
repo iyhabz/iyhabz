@@ -64,9 +64,6 @@ Currently, I’m part of the research team at **ATB Potsdam**, developing advanc
 
 > “The best robots are not just built — they’re trained, tuned, and trusted.”  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iyhabz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iyhabz&icon=2&color=0)](https://visitcount.itsvg.in)
 
