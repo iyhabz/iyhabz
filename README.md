@@ -55,6 +55,13 @@ Currently, I’m part of the research team at **ATB Potsdam**, developing advanc
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🧬 Research & Academic Projects  
+
+- **SunBot (ATB Potsdam):** Development of ROS-based teleoperation and sensor fusion modules for autonomous field robotics.  
+- **5G FoodChain Project:** Test engineer for remote robot control and data transfer via 5G infrastructure.  
+- **Bachelor’s Thesis:** Development and evaluation of a ROS-based laser scanning and distributed collision avoidance system for a four-wheel steering mobile robot.  
+- **Master’s Thesis (In Progress):** 3D Reconstruction-Driven Motion Planning of a Serial Robot Manipulator for Pick-and-Place Tasks in Potato Cultivation.  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyhabz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iyhabz&theme=dark&hide_border=false)<br/>
